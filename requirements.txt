@@ -28,3 +28,4 @@ jupyterlab>=3.0.12
 ipygany
 panel
 ipyvtklink
+vtk==8.1.2
